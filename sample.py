@@ -11,6 +11,8 @@ class Sample:
 
     def identify(self, task):
         pass
+    def access(self):
+        pass
 
     def perform(self, perform_action):
         self._action = perform_action
