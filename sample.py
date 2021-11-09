@@ -15,3 +15,4 @@ class Sample:
 sample1 = Sample()
 sample1.print_message("Hello World")
 sample1.perform()
+sample1.perform("some text")
