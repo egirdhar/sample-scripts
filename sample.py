@@ -9,6 +9,9 @@ class Sample:
     def perform(self, action):
         pass
 
+    def identify(self, task):
+        pass
+
     def perform(self, perform_action):
         self._action = perform_action
 
