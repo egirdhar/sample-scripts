@@ -5,6 +5,9 @@ class Sample:
     
     def print_message(self, message):
         print(message)
+        
+    def perform(self, action):
+        pass
 
     def perform(self, perform_action):
         self._action = perform_action
